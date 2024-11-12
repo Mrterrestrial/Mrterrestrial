@@ -32,14 +32,15 @@ Hey there! I’m Ali Zamini, also known as Mr-terrestrial. I’m a cybersecurity
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mrterrestrial&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mrterrestrial&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrterrestrial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mrterrestrial&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mrterrestrial&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrterrestrial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mrterrestrial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Mrterrestrial&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Crafted with passion for cybersecurity and a commitment to ethical hacking -->
